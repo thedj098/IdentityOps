@@ -5,7 +5,7 @@
 **License:** MIT  
 **PowerShell:** 7.2+  
 **Dependency:** Microsoft.Graph.Authentication 2.0.0+ (auto-installed)
-
+https://www.powershellgallery.com/packages/IdentityOps/1.0.1
 ---
 
 ## Table of Contents
